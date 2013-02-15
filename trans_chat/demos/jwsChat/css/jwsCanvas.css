@@ -1,0 +1,37 @@
+/*-------------- DEMO_DESCRIPTION ------------*/
+#demo_box_description{
+    padding: 0px 15px 5px 15px !important;
+}
+
+#demo_box_description p{
+	font-family: "Verdana";
+    font-size: 11px !important;
+}
+/*-------------- DEMO_DESCRIPTION ------------*/
+
+/*---------------- DEMO_SCENARIO -------------*/
+#demo_box_scenario{
+    float: left;
+    margin: 10px;
+    padding: 5px;
+}
+
+#scenario_container{
+	float: left;
+	width: 100%;
+	margin: 0px !important;
+}
+
+iframe{
+	border: 1px solid #C8C8C8;
+	width: 505px;
+	height: 290px;
+	float: left;
+	margin-right: 0px;
+	border-radius: 0px 6px 6px 6px;
+}
+
+#iframes.target{
+	float: left;
+	width: 200px;
+}
